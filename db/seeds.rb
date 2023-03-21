@@ -10,7 +10,7 @@ Movie.create([
     discount: false,
     female_director: false
   },
-  {
+  {tat
     title: "Frida",
     year: 2002,
     length: 123,
